@@ -1,0 +1,9 @@
+125
+summer
+1000
+5
+hi
+warm
+13
+well
+good
